@@ -2,13 +2,12 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-This is a simmple Hello World program, with a twist, because one print line is boring.
+This is a simple Hello World program, with a twist, because one print line is boring.
 
 I created this for the main purpose of refreshing my knowledge of adding, committing, pushing, and pulling on Git and Github.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/pvZAzefkNcU)
 
 # Development Environment
 
